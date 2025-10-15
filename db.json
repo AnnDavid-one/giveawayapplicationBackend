@@ -1,0 +1,164 @@
+{
+  "giveaways": [
+    {
+      "id": "59c5165b-447e-4ce4-af13-c5fd6af7772a",
+      "title": "fish",
+      "entries": [
+        {
+          "id": "b5ed2f1d-12d4-42e0-b0d0-255d31680a6b",
+          "enteredAt": "2025-10-14T19:54:43.870Z"
+        },
+        {
+          "id": "a42b8f8c-9b65-4978-a4b3-b33ac5a09d82",
+          "enteredAt": "2025-10-14T19:54:48.206Z"
+        }
+      ],
+      "winner": {
+        "entryId": "a42b8f8c-9b65-4978-a4b3-b33ac5a09d82",
+        "pickedAt": "2025-10-14T19:55:03.917Z"
+      },
+      "createdAt": "2025-10-14T19:54:29.249Z"
+    },
+    {
+      "id": "b792fd4b-24bf-4590-8b2e-c570ee222c88",
+      "title": "Stories",
+      "entries": [
+        {
+          "id": "896d02f8-ed0d-47ca-9373-7eb2d2eca86d",
+          "enteredAt": "2025-10-14T19:56:00.277Z"
+        }
+      ],
+      "winner": {
+        "entryId": "896d02f8-ed0d-47ca-9373-7eb2d2eca86d",
+        "pickedAt": "2025-10-14T19:56:12.340Z"
+      },
+      "createdAt": "2025-10-14T19:55:40.902Z"
+    },
+    {
+      "id": "7cd3dfd9-8613-4a63-9cbe-6ff95e2d2fe3",
+      "title": "Shoes",
+      "entries": [
+        {
+          "id": "d480f61d-6133-43f4-8f2a-2e24b2e6e70b",
+          "enteredAt": "2025-10-14T20:47:34.329Z"
+        },
+        {
+          "id": "17e0de52-8484-43a0-808f-6a8a31837a57",
+          "enteredAt": "2025-10-14T20:47:37.382Z"
+        },
+        {
+          "id": "50d6099a-b039-4f6b-b1f1-16f1b42a8f07",
+          "enteredAt": "2025-10-14T20:47:39.544Z"
+        }
+      ],
+      "winner": {
+        "entryId": "50d6099a-b039-4f6b-b1f1-16f1b42a8f07",
+        "pickedAt": "2025-10-14T20:48:12.118Z"
+      },
+      "createdAt": "2025-10-14T19:55:49.341Z"
+    },
+    {
+      "id": "f55472fa-9f9a-4707-b4e4-9a9d34ce9b4f",
+      "title": "shoes",
+      "entries": [
+        {
+          "id": "b8105491-14d1-408c-8d0a-e44fc987e980",
+          "enteredAt": "2025-10-14T20:48:30.301Z"
+        },
+        {
+          "id": "f580281a-b0f3-44cd-a392-549ccd72bc39",
+          "enteredAt": "2025-10-14T20:52:20.543Z"
+        },
+        {
+          "id": "e6cbf9d1-edc5-4f1d-82e3-39e40c90c3fa",
+          "enteredAt": "2025-10-14T21:56:23.684Z"
+        }
+      ],
+      "winner": {
+        "entryId": "e6cbf9d1-edc5-4f1d-82e3-39e40c90c3fa",
+        "pickedAt": "2025-10-14T21:56:34.241Z"
+      },
+      "createdAt": "2025-10-14T20:46:14.045Z"
+    },
+    {
+      "id": "0f0b9b97-dbfb-4578-8af5-675a797dfe16",
+      "title": "Shoes",
+      "entries": [
+        {
+          "id": "6c04b474-b13f-4d10-b95d-8edefceb6ba0",
+          "enteredAt": "2025-10-14T20:48:28.096Z"
+        },
+        {
+          "id": "eeb4c884-7822-43aa-abe0-043a32069b67",
+          "enteredAt": "2025-10-14T20:52:23.362Z"
+        }
+      ],
+      "winner": {
+        "entryId": "6c04b474-b13f-4d10-b95d-8edefceb6ba0",
+        "pickedAt": "2025-10-14T20:52:53.070Z"
+      },
+      "createdAt": "2025-10-14T20:47:53.379Z"
+    },
+    {
+      "id": "2a82371d-9507-43fd-9814-8860e2a13fe5",
+      "title": "Home",
+      "entries": [
+        {
+          "id": "27d1bc23-4c78-45da-9090-e8b220fcdc68",
+          "enteredAt": "2025-10-14T20:48:33.219Z"
+        },
+        {
+          "id": "547ecc9e-467f-4a88-a786-c4865e3d8957",
+          "enteredAt": "2025-10-14T20:52:25.698Z"
+        }
+      ],
+      "winner": {
+        "entryId": "27d1bc23-4c78-45da-9090-e8b220fcdc68",
+        "pickedAt": "2025-10-14T20:52:42.436Z"
+      },
+      "createdAt": "2025-10-14T20:48:05.058Z"
+    },
+    {
+      "id": "4dfcfc29-4884-48d9-bace-acaaa2846916",
+      "title": "100 Naira airitime for mtn users",
+      "entries": [
+        {
+          "id": "71a446de-8f64-4e4a-b141-3e6a1262d8f9",
+          "enteredAt": "2025-10-14T21:55:52.998Z"
+        },
+        {
+          "id": "1dcf373c-4d06-4a32-a9b4-e1a518fec01a",
+          "enteredAt": "2025-10-14T21:55:55.246Z"
+        },
+        {
+          "id": "defe3a39-9527-4683-af77-9e7b999f3ff5",
+          "enteredAt": "2025-10-14T21:56:22.170Z"
+        }
+      ],
+      "winner": {
+        "entryId": "defe3a39-9527-4683-af77-9e7b999f3ff5",
+        "pickedAt": "2025-10-14T21:56:58.248Z"
+      },
+      "createdAt": "2025-10-14T21:55:20.840Z"
+    },
+    {
+      "id": "821597ca-fc0d-4bd2-8692-39a222bc2118",
+      "title": "shoes",
+      "entries": [
+        {
+          "id": "754bc823-f341-4566-b820-e84d57702d14",
+          "enteredAt": "2025-10-15T04:40:40.134Z"
+        },
+        {
+          "id": "5ba4e896-f3be-466f-8a96-1f8a8f9883f9",
+          "enteredAt": "2025-10-15T04:40:41.849Z"
+        }
+      ],
+      "winner": {
+        "entryId": "5ba4e896-f3be-466f-8a96-1f8a8f9883f9",
+        "pickedAt": "2025-10-15T04:40:52.946Z"
+      },
+      "createdAt": "2025-10-15T03:25:33.953Z"
+    }
+  ]
+}
