@@ -3,7 +3,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import giveawayRoutes from './routes/giveawayRoutes.js';
 import giveawayModel from './models/giveawayModel.js';
-
+import job from './lib/cron.js';
 dotenv.config();
 
 const app = express();
@@ -14,6 +14,7 @@ console.log("Loaded PORT from .env:", process.env.PORT);
 // Middleware
 app.use(cors());
 app.use(express.json());
+job.start();
 
 // Initialize database
 await giveawayModel.initDB();
